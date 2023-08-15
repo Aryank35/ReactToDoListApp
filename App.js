@@ -1,6 +1,6 @@
 import "./App.css";
-import Header from "./MyComponents/header"
-import TodoBody from "./MyComponents/TodoBody"
+import Header from "./header"
+import TodoBody from "./TodoBody"
 function App() {
   return (
     <div>
